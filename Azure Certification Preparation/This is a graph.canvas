@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2168a248b627ba31","x":-1360,"y":-1000,"width":783,"height":548,"color":"1","type":"link","url":"https://esi.microsoft.com/getcertification"},
+		{"id":"a7bb449f8f8d85d6","x":-360,"y":-1000,"width":400,"height":400,"type":"file","file":"AZ-900/Measured Requirements.md"}
+	],
+	"edges":[
+		{"id":"dd085773cedc2740","fromNode":"2168a248b627ba31","fromSide":"top","toNode":"a7bb449f8f8d85d6","toSide":"top"}
+	]
+}
