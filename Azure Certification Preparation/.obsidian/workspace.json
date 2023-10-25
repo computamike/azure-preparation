@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7ea9a2097e923795",
+        "id": "f9f24cacad9d6ff4",
         "type": "tabs",
         "children": [
           {
-            "id": "2ea72097797d94f2",
+            "id": "35ce33b0781b587e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -439.9143186201469,
-                  "y": -505.43344979014563,
-                  "zoom": -1.0092591985066732
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,9 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ea72097797d94f2",
+  "active": "35ce33b0781b587e",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "This is a graph.canvas",
     "Learning Resources.md",
     "Testing 123.md",
     "AZ-900/Measured Requirements.md",
