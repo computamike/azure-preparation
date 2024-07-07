@@ -23,9 +23,11 @@
             "id": "ffeeec5508c955dd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "AZ-900/Measured Requirements.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -159,10 +161,10 @@
   },
   "active": "ffeeec5508c955dd",
   "lastOpenFiles": [
-    "This is a graph.canvas",
     "Learning Resources.md",
-    "Testing 123.md",
     "AZ-900/Measured Requirements.md",
+    "This is a graph.canvas",
+    "Testing 123.md",
     "AZ-900"
   ]
 }
